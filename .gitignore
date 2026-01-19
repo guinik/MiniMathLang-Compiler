@@ -1,0 +1,50 @@
+# =========================
+# Build artifacts (CMake)
+# =========================
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+compile_commands.json
+install_manifest.txt
+
+# =========================
+# C / C++ outputs
+# =========================
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.a
+*.lib
+*.pdb
+
+# =========================
+# Docker
+# =========================
+*.log
+docker-compose.override.yml
+
+# =========================
+# Editors / IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Windows
+# =========================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.bak
