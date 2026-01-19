@@ -96,7 +96,7 @@ make
 ./output path/to/source.minimath
 ```
 
-Replace `path/to/source.minimath` with the path to your MiniMathLang source file.
+Replace `path/to/source.mml` with the path to your MiniMathLang source file.
 
 ---
 
